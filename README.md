@@ -4,10 +4,8 @@ This repository contains a full-stack Expense Tracker application with a .NET 9 
 
 ## Project Structure
 
-- `ExpenseAPI/` - .NET 9 Web API backend
-  - `Expenses.API/` - Main API project
-- `ExpenseAPP/` - Angular frontend
-  - `Expenses.Client/` - Main Angular app
+- `Expenses.API/` - .NET 9 Web API backend
+- `Expenses.Client/` - Angular frontend
 
 ---
 
